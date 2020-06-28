@@ -23,7 +23,7 @@ Both *Fake.csv* and *True.csv* contains 4 features, *title*, *text*, *subject* a
 After combining the .txt files in the folders *celebrityDataset* and *fakeNewsDataset*, there were 490 fake news articles and 490 legitimate articles.
 
 ## 3. Dependencies and how to run the model on specific texts  
-First create a folder named *data* and place it in the same directory as *fake_texts_classifier.ipynb*. Next download both datasets and extract them into the *data* folder (do not change the name of the folders).
+First create a folder named *data* and place it in the same directory as *final_Hrishikesh-Masurkar.ipynb*. Next download both datasets and extract them into the *data* folder (do not change the name of the folders).
 
 To train the model simply run all cells in the notebook. 
 
